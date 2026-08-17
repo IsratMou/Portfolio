@@ -1,0 +1,6 @@
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+
+# Sitemap location (update after deploying to your final domain)
+Sitemap: https://isratmou.github.io/sitemap.xml
