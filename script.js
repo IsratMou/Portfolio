@@ -54,9 +54,10 @@ function scrollToTop() {
   const phrases = [
     "AI / ML Engineer",
     "Machine Learning Researcher",
-    "Deep Learning Practitioner",
+    "ML Systems Builder",
     "Computer Vision Engineer",
-    "AI / ML Intern Candidate",
+    "Explainable AI Practitioner",
+    "IoT Security Researcher",
   ];
   const el = document.getElementById("typingText");
   if (!el) return;
