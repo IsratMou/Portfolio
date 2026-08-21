@@ -773,7 +773,7 @@ function fillProgress(el) {
       icon: iconLinkedin,
       label: "LinkedIn",
       value: "israt-jahan-mou",
-      href: "https://www.linkedin.com/in/israt-jahan-mou-a80007366",
+      href: "https://www.linkedin.com/in/isratjahanmou12/",
       accent: "chip-sky-bg",
       external: true,
     },
